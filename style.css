@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #222222;
+}
+
+.title h2 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+.col-4 img{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+/* section */
+
+section {
+    background-image: url(img/IMAGE10.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 85vh;
+}
+
+.mya {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #00D6B4;
+    padding-top: 48px;
+}
+
+.mya1 {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+    padding-top: 48px;
+}
+
+.mybrand {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding-top: 43px;
+}
+
+.col h1 {
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 53px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.col {
+    transform: translateY(153px);
+}
+
+.col button {
+
+    border-color: #00D6B4;
+    background-color: none;
+    border-radius: 5px;
+    margin-top: 29px;
+}
+
+.col button a {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #00D6B4;
+    text-decoration: none;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.title h3 {
+    text-align: center;
+    margin-bottom: 33px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top: 43px;
+}
+
+
+h3 {
+    padding-top: 50px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #C2C2C2;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 18px;
+    text-align: center;
+    color: #999999;
+}
